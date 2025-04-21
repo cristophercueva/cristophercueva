@@ -1,13 +1,16 @@
 # 💫 About Me:
-I am currently working at Universidad César Vallejo (UCV), specializing in the use of Oracle PeopleCode for the development and maintenance of enterprise-level applications. My responsibilities include creating and updating system pages based on institutional requirements, as well as researching and proposing improvements to optimize academic and administrative processes.
+I am currently working at Universidad César Vallejo (UCV), specializing in the use of Oracle PeopleCode for the development and maintenance of enterprise applications. My responsibilities include designing and updating system pages based on functional requirements and researching ways to improve internal processes.
 
-In addition to PeopleCode, I actively integrate other programming languages such as Java, Python, and C# to develop complementary tools and solutions tailored to specific project needs. My versatility allows me to adapt quickly to diverse technological environments and contribute efficiently to cross-functional teams.
+A key part of my role involves integrating external services, such as the SUNAT API (Peru’s National Superintendency of Tax Administration), which I successfully connected and consumed using PeopleCode — optimizing tax-related operations and validations within our system.
+
+In addition to PeopleCode, I work with Java, Python, and C# when specific tools or extensions are required. My technical versatility allows me to adapt quickly to diverse development environments and collaborate effectively with cross-functional teams.
 
 # 💫 Sobre mí:
-Actualmente trabajo en la Universidad César Vallejo (UCV), donde me especializo en el uso del lenguaje de programación Oracle PeopleCode para el desarrollo y mantenimiento de aplicaciones a nivel institucional. Entre mis funciones principales se encuentran la creación y actualización de páginas del sistema según los requerimientos de distintas áreas, así como la investigación de mejoras para optimizar procesos académicos y administrativos.
+Actualmente trabajo en la Universidad César Vallejo (UCV), donde me especializo en el desarrollo y mantenimiento de aplicaciones institucionales utilizando el lenguaje Oracle PeopleCode. Mis funciones incluyen la creación y actualización de páginas del sistema según los requerimientos de cada área, así como la investigación de mejoras para optimizar procesos internos.
 
-Además de PeopleCode, también integro otros lenguajes como Java, Python y C#, dependiendo de las necesidades del proyecto. Esta versatilidad me permite adaptarme rápidamente a diferentes entornos tecnológicos y aportar soluciones eficientes en equipos multidisciplinarios.
+Uno de los aportes más destacados ha sido la integración de servicios externos, específicamente el consumo de la API de SUNAT (Superintendencia Nacional de Administración Tributaria del Perú), directamente desde PeopleCode. Esta funcionalidad permitió automatizar validaciones y mejorar la gestión de datos tributarios dentro del sistema.
 
+Además, complemento mis desarrollos con lenguajes como Java, Python y C#, según lo requiera cada proyecto. Esta flexibilidad me permite adaptarme fácilmente a distintos entornos tecnológicos y aportar soluciones efectivas en equipos multidisciplinarios.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristopher-alexander-cueva-sipiran-0561b0270) 
