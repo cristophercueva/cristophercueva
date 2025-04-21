@@ -1,9 +1,9 @@
-💫 About Me
+# 💫 About Me:
 I am currently working at Universidad César Vallejo (UCV), specializing in the use of Oracle PeopleCode for the development and maintenance of enterprise-level applications. My responsibilities include creating and updating system pages based on institutional requirements, as well as researching and proposing improvements to optimize academic and administrative processes.
 
 In addition to PeopleCode, I actively integrate other programming languages such as Java, Python, and C# to develop complementary tools and solutions tailored to specific project needs. My versatility allows me to adapt quickly to diverse technological environments and contribute efficiently to cross-functional teams.
 
-💫 Sobre mí
+# 💫 Sobre mí:
 Actualmente trabajo en la Universidad César Vallejo (UCV), donde me especializo en el uso del lenguaje de programación Oracle PeopleCode para el desarrollo y mantenimiento de aplicaciones a nivel institucional. Entre mis funciones principales se encuentran la creación y actualización de páginas del sistema según los requerimientos de distintas áreas, así como la investigación de mejoras para optimizar procesos académicos y administrativos.
 
 Además de PeopleCode, también integro otros lenguajes como Java, Python y C#, dependiendo de las necesidades del proyecto. Esta versatilidad me permite adaptarme rápidamente a diferentes entornos tecnológicos y aportar soluciones eficientes en equipos multidisciplinarios.
