@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on: Developing a new mobile app for language learning.<br><br>👯 I’m looking to collaborate on: Building an open-source project for environmental conservation.<br><br>🤝 I’m looking for help with: 🤝 I’m looking for help with: Creating a website to assist elderly individuals, puppies, and children with daily tasks and social connectivity.<br><br>🌱 I’m currently learning: Advanced techniques in front-end web development using React.js.<br><br>💬 Ask me about: Tips for improving productivity in software development projects.<br><br>⚡ Fun fact: The first computer virus was created in 1983 and was named "Elk Cloner." It infected Apple II computers through floppy disks.
+💫 About Me
+I am currently working at Universidad César Vallejo (UCV), specializing in the use of Oracle PeopleCode for the development and maintenance of enterprise-level applications. My responsibilities include creating and updating system pages based on institutional requirements, as well as researching and proposing improvements to optimize academic and administrative processes.
+
+In addition to PeopleCode, I actively integrate other programming languages such as Java, Python, and C# to develop complementary tools and solutions tailored to specific project needs. My versatility allows me to adapt quickly to diverse technological environments and contribute efficiently to cross-functional teams.
+
+💫 Sobre mí
+Actualmente trabajo en la Universidad César Vallejo (UCV), donde me especializo en el uso del lenguaje de programación Oracle PeopleCode para el desarrollo y mantenimiento de aplicaciones a nivel institucional. Entre mis funciones principales se encuentran la creación y actualización de páginas del sistema según los requerimientos de distintas áreas, así como la investigación de mejoras para optimizar procesos académicos y administrativos.
+
+Además de PeopleCode, también integro otros lenguajes como Java, Python y C#, dependiendo de las necesidades del proyecto. Esta versatilidad me permite adaptarme rápidamente a diferentes entornos tecnológicos y aportar soluciones eficientes en equipos multidisciplinarios.
 
 
 ## 🌐 Socials:
@@ -9,11 +16,5 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cristophercueva&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
